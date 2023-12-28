@@ -10,7 +10,6 @@ As the sole developer of this project, I conceptualized the design and functiona
 Technologies Used:
 
 Frontend: HTML, CSS, JavaScript, React
-Design: Responsive design for optimal viewing on various devices
 Tools: Git for version control, VSCode as the development environment
 
 Key Learnings:
