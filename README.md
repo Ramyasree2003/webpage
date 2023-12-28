@@ -17,7 +17,7 @@ Key Learnings:
 Building this portfolio enhanced my proficiency in React, responsive design, and frontend development. It also provided valuable insights into user experience and effective presentation of personal and professional information.
 
 WEB SITE OVER VIEW:
->look through the vesdio:https://1drv.ms/v/s!Aij7o27fjS39g4d6j89irYCgXQZVcA?e=D2piQZ
+>look through the vedio:https://1drv.ms/v/s!Aij7o27fjS39g4d6j89irYCgXQZVcA?e=D2piQZ
 
 Results:
 The Personal Portfolio Website serves as an effective tool for presenting my professional background, skills, and accomplishments. Its dynamic and visually appealing design enhances the user experience and showcases my commitment to quality and creativity.
